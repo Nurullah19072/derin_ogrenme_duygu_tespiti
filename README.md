@@ -57,6 +57,6 @@ Bu proje bir akademik çalışmanın parçası olarak gerçekleştirilmiştir. D
 
 This project was developed as part of an academic study. You can find more details in the following files:
 
-- [`VA_22_045_makale.docx`](./Makale.docx) – Projenin detaylarını içeren Türkçe makale  
-- [`VA_22_045_poster.pdf`](./Poster.pdf) – Görsel olarak özetlenmiş sunum posteri
+- [`Makale.docx`](./VA_22_045_makale.docx) – Projenin detaylarını içeren Türkçe makale  
+- [`Poster.pdf`](./VA_22_045_poster.pdf) – Görsel olarak özetlenmiş sunum posteri
 ---
