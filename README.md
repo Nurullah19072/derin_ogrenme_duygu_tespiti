@@ -50,4 +50,13 @@ The dataset used in this project is no longer publicly available. It is organize
 - Matplotlib, Seaborn  
 - Scikit-learn  
 
+
+## 📄 Makale ve Poster / Article and Poster
+
+Bu proje bir akademik çalışmanın parçası olarak gerçekleştirilmiştir. Detaylı bilgi için aşağıdaki dosyalara göz atabilirsiniz:
+
+This project was developed as part of an academic study. You can find more details in the following files:
+
+- [`Makale.pdf`](./Makale.pdf) – Projenin detaylarını içeren Türkçe makale  
+- [`Poster.png`](./Poster.png) – Görsel olarak özetlenmiş sunum posteri
 ---
